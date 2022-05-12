@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NCsBPFI0eWPhe8T3GcemQ7VPVRpfcRzxFhSvBKF1g/SGOQ5TUzlQw/mEY3XgGVxDCsiPHode2vv+9TmLP5chZw==",
+  "success": true,
+  "projectFilePath": "C:\\BRUNO SANTOS\\ESTUDOS\\Leitor QRCODE - WEBCAM\\Projetos\\Projetos.LeitorQRCode\\Projetos.LeitorQRCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno Santos\\.nuget\\packages\\bower\\1.3.11\\bower.1.3.11.nupkg.sha512",
+    "C:\\Users\\Bruno Santos\\.nuget\\packages\\node.js\\0.10.28\\node.js.0.10.28.nupkg.sha512",
+    "C:\\Users\\Bruno Santos\\.nuget\\packages\\nogit\\0.0.8\\nogit.0.0.8.nupkg.sha512",
+    "C:\\Users\\Bruno Santos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

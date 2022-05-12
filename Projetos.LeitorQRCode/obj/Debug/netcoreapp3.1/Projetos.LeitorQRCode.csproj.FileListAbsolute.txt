@@ -1,0 +1,112 @@
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\package-lock.json
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\package.json
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.exe
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.AssemblyInfoInputs.cache
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.AssemblyInfo.cs
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.RazorAssemblyInfo.cache
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.RazorAssemblyInfo.cs
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.TagHelpers.input.cache
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.TagHelpers.output.cache
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.RazorCoreGenerate.cache
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.RazorTargetAssemblyInfo.cache
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.RazorTargetAssemblyInfo.cs
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\staticwebassets\Projetos.LeitorQRCode.StaticWebAssets.Manifest.cache
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\staticwebassets\Projetos.LeitorQRCode.StaticWebAssets.xml
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.deps.json
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.runtimeconfig.json
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.runtimeconfig.dev.json
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.dll
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.pdb
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.Views.dll
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.Views.pdb
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.MvcApplicationPartsAssemblyInfo.cache
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.Views.pdb
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.dll
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.pdb
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.genruntimeconfig.cache
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.csproj.CopyComplete
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Razor\Views\Principal\Index.cshtml.g.cs
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\package.json
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.exe
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.deps.json
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.runtimeconfig.json
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.runtimeconfig.dev.json
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.dll
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.pdb
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.Views.dll
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.Views.pdb
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.AssemblyInfoInputs.cache
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.AssemblyInfo.cs
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.csproj.CoreCompileInputs.cache
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.RazorAssemblyInfo.cache
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.RazorAssemblyInfo.cs
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.TagHelpers.input.cache
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.TagHelpers.output.cache
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.RazorCoreGenerate.cache
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Razor\Views\Principal\Index.cshtml.g.cs
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.RazorTargetAssemblyInfo.cache
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.RazorTargetAssemblyInfo.cs
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.Views.pdb
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\staticwebassets\Projetos.LeitorQRCode.StaticWebAssets.Manifest.cache
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\staticwebassets\Projetos.LeitorQRCode.StaticWebAssets.xml
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.dll
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.pdb
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.genruntimeconfig.cache
+C:\Users\bdess\OneDrive\Área de Trabalho\ESTUDOS\QRCode\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.csproj.CopyComplete
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\appsettings.json
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\package-lock.json
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\package.json
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.StaticWebAssets.xml
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.exe
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.deps.json
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.runtimeconfig.json
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.runtimeconfig.dev.json
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.dll
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.pdb
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.Views.dll
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\bin\Debug\netcoreapp3.1\Projetos.LeitorQRCode.Views.pdb
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.csproj.AssemblyReference.cache
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.AssemblyInfoInputs.cache
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.AssemblyInfo.cs
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.csproj.CoreCompileInputs.cache
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.MvcApplicationPartsAssemblyInfo.cache
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.RazorAssemblyInfo.cache
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.RazorAssemblyInfo.cs
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\staticwebassets\Projetos.LeitorQRCode.StaticWebAssets.Manifest.cache
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.TagHelpers.input.cache
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.TagHelpers.output.cache
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.RazorCoreGenerate.cache
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Razor\Views\Principal\Index.cshtml.g.cs
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.RazorTargetAssemblyInfo.cache
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.RazorTargetAssemblyInfo.cs
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.Views.pdb
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.dll
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.pdb
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.genruntimeconfig.cache
+C:\BRUNO SANTOS\ESTUDOS\Leitor QRCODE - WEBCAM\Projetos\Projetos.LeitorQRCode\obj\Debug\netcoreapp3.1\Projetos.LeitorQRCode.csproj.CopyComplete
